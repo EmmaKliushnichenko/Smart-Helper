@@ -55,4 +55,4 @@ To launch the prototype:
 
 - **Explore Additional Features**: Discover supplementary functionalities like data sharing, user privacy details, and customizable application settings, ensuring user autonomy and data security.
 
-Thank you for your interest and participation! I am waiting for feedbacks and your opinions. 🌟
+Thank you for your interest and participation! I am waiting for feedbacks and your opinions. ♡
