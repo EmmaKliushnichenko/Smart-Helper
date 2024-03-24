@@ -1,4 +1,4 @@
-# SmartHelper Prototype Evaluation Guide
+# Smart Helper prototype user guide
 
 ## Introduction
 Welcome to the SmartHelper health management application prototype. This guide will walk you through the prototype's core features, demonstrating the application's potential to support individuals in managing their health effectively.
