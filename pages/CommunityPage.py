@@ -13,7 +13,7 @@ from PyQt5.QtGui import QIcon, QFont
 from MorePage import MorePage
 
 # Set your OpenAI API key here
-openai.api_key = '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'
+openai.api_key = ''
 
 def get_completion(prompt, model="gpt-3.5-turbo"):
     messages = [{"role": "user", "content": prompt}]
