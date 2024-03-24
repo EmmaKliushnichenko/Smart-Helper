@@ -1,13 +1,17 @@
 # Smart Helper prototype user guide
 
 ## Introduction
-Welcome to the SmartHelper health management application prototype. This guide will walk you through the prototype's core features, demonstrating the application's potential to support individuals in managing their health effectively.
+Welcome to the Smart Helper health management application prototype. 
+
+Smart Helper merges an intuitive interface with a user-friendly design, enhanced by a real-time text assistant ready to address your health-related inquiries and well-being needs. The application keeps you informed with medication reminders and presents your health data in an interactive, accessible format. It goes further by offering personalized dietary advice and sending motivational notifications to encourage a healthy lifestyle. 
+
+This guide will walk you through the prototype's core features, demonstrating the application's potential to support individuals in managing their health effectively.
 
 ## Starting the Prototype
 
 ## Prerequisites
 
-Before installing SmartHelper, you will need:
+Before installing Smart Helper, you will need:
 - Python 3.9
 - PyQt5 installed within your Python environment
 
