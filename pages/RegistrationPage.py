@@ -35,7 +35,7 @@ class RegistrationPage(QWidget):
         layout.addWidget(gender_label)
 
         self.gender_combobox = QComboBox(self)
-        gender_options = [ "Male", "Female",  "Non-Binary", "Transgender", "Intersex", "Prefer not to say", "Other"]
+        gender_options = [ "Male", "Female", "Prefer not to say", "Other"]
         self.gender_combobox.addItems(gender_options)
         self.gender_combobox.setFont(QFont('Arial', 14))
         layout.addWidget(self.gender_combobox)
