@@ -51,7 +51,7 @@ To launch the prototype:
 
 ### CommunityPage (HealthInfoPage)
 
-- **Smart Companion**: Interact with the SmartHelper text assistant by inquiring about health-related topics.
+- **Smart Companion**: Interact with the Smart Helper text assistant by inquiring about health-related topics.
 - **Feedback**: Utilize the feedback form to contribute your insights on the prototype's functionality.
 - **Next Step**: Conclude your exploration by visiting the "More" section for additional features.
 
