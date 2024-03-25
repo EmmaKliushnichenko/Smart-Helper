@@ -42,7 +42,7 @@ To launch the prototype:
 ### StatisticsPage
 
 - **Features**: A graphical representation of your health data history, illustrating key metrics like glucose levels and insulin doses.
-- **Next Step**: Move to the Diary page by choosing the respective icon or menu item.
+- **Next Step**: Move to the "Diary" page by choosing the respective menu item.
 
 ### DiaryPage
 
