@@ -71,8 +71,7 @@ class RegistrationPage(QWidget):
         height = self.height_input.text()
         weight = self.weight_input.text()
         gender = self.gender_combobox.currentText()
-
-        # After registration, create and show the HomePage with the new user's information
+        
         self.home_page = HomePage(user_name=name, weight=weight, height=height)
         self.home_page.show()
         self.close()
