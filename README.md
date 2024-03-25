@@ -30,12 +30,12 @@ To launch the prototype:
 
 ### RegistrationPage
 
-- **Action**: Fill in your details as prompted to tailor the Smart Helper experience to your personal health journey.
+- **Action**: Fill in your details as prompted to make your Smart Helper experience more personalized.
 - **Navigation**: Completing this step will redirect you to the HomePage.
 
 ### HomePage
 
-- **Overview**: Your central dashboard greets you with a warm welcome and an at-a-glance view of your health metrics.
+- **Overview**: Your central dashboard welcomes you with a warm welcome and allows you to immediately view your health indicators and enter new data that is stored in the application.
 - **Medication Reminders**: Take note of the medication reminders designed to keep you on schedule with your health needs.
 - **Next Step**: Click on the "Statistics" icon or select it from the menu to continue.
 
