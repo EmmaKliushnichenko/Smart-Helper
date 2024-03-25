@@ -17,14 +17,14 @@ class WelcomePage(QWidget):
 
     def initUI(self):
         self.setWindowTitle('Welcome to Smart Helper')
-        self.setGeometry(100, 100, 375, 812)  # Width x Height
+        self.setGeometry(100, 100, 375, 812) 
 
         # Welcome message
         self.welcome_label = QLabel('Welcome to your personal\nSmart Helper', self)
         self.welcome_label.setAlignment(Qt.AlignCenter)
         self.welcome_label.setFont(QFont('DM Sans', 28, QFont.Bold))
         self.welcome_label.setStyleSheet("color: #061428; line-height: 47px;")
-        self.welcome_label.setGeometry(10, 100, 355, 200)  # Adjust the geometry to center the text
+        self.welcome_label.setGeometry(10, 100, 355, 200) 
         self.welcome_label.setWordWrap(True)
 
         # Arrow button
